@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "675300453637",
+    "firebase_url": "https://mycmtapp.firebaseio.com",
+    "project_id": "mycmtapp",
+    "storage_bucket": "mycmtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675300453637:android:33ef13cbd026e359fb5b6c",
+        "android_client_info": {
+          "package_name": "com.projectpepsweb.CMT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675300453637-kf9mqb1lchd5m8t97brtnm6sbki5h8tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0djh_bAA3rZtNoQTADKz6pLo6DMcAw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675300453637-kf9mqb1lchd5m8t97brtnm6sbki5h8tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675300453637:android:af59072399820bf8fb5b6c",
+        "android_client_info": {
+          "package_name": "com.projetpepsweb.CatchMyTomb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675300453637-kf9mqb1lchd5m8t97brtnm6sbki5h8tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0djh_bAA3rZtNoQTADKz6pLo6DMcAw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675300453637-kf9mqb1lchd5m8t97brtnm6sbki5h8tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
