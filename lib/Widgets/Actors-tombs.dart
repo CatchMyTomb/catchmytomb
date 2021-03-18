@@ -37,7 +37,7 @@ class _ActorsTombState extends State<ActorsTomb> {
                 children: <Widget>[
                   Text(
                     'Cinéma',
-                    style: GoogleFonts.muli(
+                    style: GoogleFonts.poiretOne(
                       color: Color(0xffffb838),
                       fontSize: 22.0,
                       fontWeight: FontWeight.w300,

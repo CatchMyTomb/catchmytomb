@@ -28,8 +28,12 @@ class _SeeAllFamousState extends State<SeeAllFamous> {
           backgroundColor: Colors.white,
           iconTheme: IconThemeData(color: Color(0xffffb838)),
           title: Text(
-            'Cinéma',
-            style: TextStyle(color: Color(0xffffb838)),
+            'Les plus célèbres',
+            style: GoogleFonts.poiretOne(
+              color: Color(0xffffb838),
+              fontSize: 25.0,
+              fontWeight: FontWeight.bold,
+            ),
           ),
           centerTitle: true,
         ),
@@ -59,9 +63,9 @@ class _SeeAllFamousState extends State<SeeAllFamous> {
                           width: 300,
                           child: Text(
                             'Retrouvez les personnalités les plus connues',
-                            style: GoogleFonts.muli(
+                            style: GoogleFonts.poiretOne(
                               color: Color(0xff2E2E2E),
-                              fontSize: 22.0,
+                              fontSize: 40.0,
                               fontWeight: FontWeight.bold,
                             ),
                           ),

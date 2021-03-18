@@ -37,7 +37,7 @@ class _SportsTombState extends State<SportsTomb> {
                 children: <Widget>[
                   Text(
                     'Sport',
-                    style: GoogleFonts.muli(
+                    style: GoogleFonts.poiretOne(
                       color: Color(0xffffb838),
                       fontSize: 22.0,
                       fontWeight: FontWeight.w300,

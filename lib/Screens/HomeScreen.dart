@@ -33,8 +33,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   padding: EdgeInsets.only(left: 20.0, right: 50.0),
                   child: Text(
                     'Où repose en paix vos célébrités favorites ?',
-                    style: GoogleFonts.muli(
-                        fontSize: 30.0,
+                    style: GoogleFonts.poiretOne(
+                        fontSize: 50.0,
                         fontWeight: FontWeight.bold,
                         color: Color(0xff2E2E2E)),
                   ),

@@ -37,7 +37,7 @@ class _SingerTombsState extends State<SingerTombs> {
                 children: <Widget>[
                   Text(
                     'Musique',
-                    style: GoogleFonts.muli(
+                    style: GoogleFonts.poiretOne(
                       color: Color(0xffffb838),
                       fontSize: 22.0,
                       fontWeight: FontWeight.w300,

@@ -72,7 +72,7 @@ class _FormTombState extends State<FormTomb> {
     if (_imageFile == null && _imageUrl == null) {
       return Text(
         "Prenez en photo de la tombe trouvée",
-        style: GoogleFonts.raleway(
+        style: GoogleFonts.poiretOne(
           color: Colors.grey,
           fontSize: 12,
         ),
@@ -181,7 +181,7 @@ class _FormTombState extends State<FormTomb> {
               Text(
                 "Partagez avec nous votre découverte",
                 textAlign: TextAlign.center,
-                style: GoogleFonts.muli(
+                style: GoogleFonts.poiretOne(
                     color: Color(0xff2E2E2E),
                     fontSize: 25,
                     fontWeight: FontWeight.bold),

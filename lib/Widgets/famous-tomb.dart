@@ -37,7 +37,7 @@ class _FamousTombsState extends State<FamousTombs> {
                 children: <Widget>[
                   Text(
                     'Les plus connus',
-                    style: GoogleFonts.muli(
+                    style: GoogleFonts.poiretOne(
                       color: Color(0xffffb838),
                       fontSize: 22.0,
                       fontWeight: FontWeight.w300,

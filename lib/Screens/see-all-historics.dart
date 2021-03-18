@@ -29,7 +29,11 @@ class _SeeAllHistoricsState extends State<SeeAllHistorics> {
           iconTheme: IconThemeData(color: Color(0xffffb838)),
           title: Text(
             'Hommes Historiques',
-            style: TextStyle(color: Color(0xffffb838)),
+            style: GoogleFonts.poiretOne(
+              color: Color(0xffffb838),
+              fontSize: 25.0,
+              fontWeight: FontWeight.bold,
+            ),
           ),
           centerTitle: true,
         ),
@@ -59,9 +63,9 @@ class _SeeAllHistoricsState extends State<SeeAllHistorics> {
                           width: 300,
                           child: Text(
                             "Retrouvez ceux qui ont marqué l'histoire de notre monde",
-                            style: GoogleFonts.muli(
+                            style: GoogleFonts.poiretOne(
                               color: Color(0xff2E2E2E),
-                              fontSize: 22.0,
+                              fontSize: 40.0,
                               fontWeight: FontWeight.bold,
                             ),
                           ),

@@ -29,7 +29,11 @@ class _SeeAllPoliticsState extends State<SeeAllPolitics> {
           iconTheme: IconThemeData(color: Color(0xffffb838)),
           title: Text(
             'Hommes politiques',
-            style: TextStyle(color: Color(0xffffb838)),
+            style: GoogleFonts.poiretOne(
+              color: Color(0xffffb838),
+              fontSize: 25.0,
+              fontWeight: FontWeight.bold,
+            ),
           ),
           centerTitle: true,
         ),
@@ -59,9 +63,9 @@ class _SeeAllPoliticsState extends State<SeeAllPolitics> {
                           width: 300,
                           child: Text(
                             'Retrouvez ceux qui ont marqué le monde de la politique',
-                            style: GoogleFonts.muli(
+                            style: GoogleFonts.poiretOne(
                               color: Color(0xff2E2E2E),
-                              fontSize: 22.0,
+                              fontSize: 40.0,
                               fontWeight: FontWeight.bold,
                             ),
                           ),

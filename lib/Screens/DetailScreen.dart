@@ -84,7 +84,7 @@ class _NoteDetailsPageState extends State<NoteDetailsPage> {
         SizedBox(height: 10),
         SizedBox(height: 25.0),
         Text(widget.tomb.title,
-            style: GoogleFonts.muli(
+            style: GoogleFonts.poiretOne(
                 fontSize: 25.0,
                 fontWeight: FontWeight.w500,
                 color: Color(0xff7d7d7d))),
